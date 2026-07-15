@@ -296,6 +296,8 @@ The SQL Injection-style requests returned HTTP response status 500 with a consis
 
 The final playbook step was to confirm the investigation and close the case. At this point, I had already added the relevant artifacts, summarized my findings into the analyst notes, and completed all the required playbook actions.
 
+## Final Verdict and Closing Case: True Positive
+
 <img width="598" height="434" alt="image" src="https://github.com/user-attachments/assets/4804bdac-07cc-4e56-ad89-c46cb978054e" />
 
 After completing the playbook, I reviewed the evidence I have collected throughout the investigation to determine whether the alert was a true positive or false positive.
