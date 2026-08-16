@@ -84,4 +84,4 @@ Since the URL resolved to a legitimate application on the official Google Play S
 
 <img width="957" height="447" alt="image" src="https://github.com/user-attachments/assets/45720dc4-0855-4d19-811c-06294286fffa" />
 
-Hooray! We correctly to identified the alert was a false positive!
+Hooray! We correctly identified the alert was a false positive!
